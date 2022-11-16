@@ -1,0 +1,21 @@
+*{
+    font-family: 'Open Sans';
+}
+
+    header{
+        background: #e58;
+        text-align: center;
+        
+    }
+
+    h1.t{
+        padding-top: 30px;
+        font-size: 40px;
+    }
+
+    section.input{
+        margin: 20px;
+        border-style: solid;
+        font-size: 30px;
+
+    }

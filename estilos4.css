@@ -1,0 +1,53 @@
+*{
+    font-family: 'Open-Sans', Arial, Helvetica, sans-serif;
+}
+
+header{
+background: #3A1C71;  
+/* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFAF7B, #D76D77, #3A1C71); 
+ /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFAF7B, #D76D77, #3A1C71); 
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+border-radius: 15px;
+}
+
+h1.titulo{
+    text-align: center;
+    padding-top: 30px;
+    color: aliceblue;
+    font-size: 50px;
+
+}
+
+section.referencias-ul{
+
+background: #36D1DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+font-size: 25px;
+border-radius: 20px;
+padding: 20px;
+margin: 20px;
+
+    
+
+}
+
+div.footer-container{
+    text-align: center;
+    font-size: 25px;
+    background-color:gray;
+    margin-top: 20px;
+    min-width: 80%;
+    min-height: 30px;
+    border-radius: 20px;
+    color: #fff
+
+}
+
+body{
+    background: #000;
+}
