@@ -20,14 +20,14 @@ section.Acerca-de, footer{
 }
 
 div.imagenes{
-    display:block
+    display:inline
 }
 
 aside{
     padding: 20px;
     width: 30%;
     min-width: 25%;
-    float: right;
+    float: right ;
     background-color: aliceblue;
     border-radius: 20px;
     margin-right: 20px;
@@ -70,6 +70,10 @@ section{
 }
 
 img.contacto{
-    min-width: 50%;
-    min-height: 50%
+    max-width: 30%;
+    min-height: 40px;
+}
+img.img-fime{
+    max-height: 40%;
+    max-width: 50%;
 }

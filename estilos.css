@@ -50,9 +50,9 @@
         height: 500px;
         background: #667db6;  
         /* fallback for old browsers */
-        background: -webkit-linear-gradient(to right,  hsla(201, 59%, 34%, 0.59), hsla(201, 96%, 38%, 0.677)),  url(images/portadameca.jpeg); 
+        background: -webkit-linear-gradient(to right,  hsla(201, 59%, 34%, 0.59), hsla(201, 96%, 38%, 0.677)),  url(https://unea.edu.mx/blog/wp-content/uploads/2022/04/que-es-ingenieria-mecatronica.jpg); 
         /* Chrome 10-25, Safari 5.1-6 */
-        background: linear-gradient(to right, hsla(201, 100%, 39%, 0.646), hsla(223, 35%, 56%, 0.768)), url(images/portadameca.jpeg);
+        background: linear-gradient(to right, hsla(201, 100%, 39%, 0.646), hsla(223, 35%, 56%, 0.768)), url(https://unea.edu.mx/blog/wp-content/uploads/2022/04/que-es-ingenieria-mecatronica.jpg);
         /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         
         background-size: cover;
